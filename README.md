@@ -47,7 +47,7 @@ up's the food and distributes it with help of the NGO's. We either put up a lang
 food or distribute it using the moving vans.
 
 
-<img src="website/photos/how we work.png">
+<center><img src="website/photos/How We Work.png"></center>
 
 
 
