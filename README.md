@@ -1,7 +1,6 @@
 <p align="center"><strong> 🔥 HACKMOL 3.0 🔥 </strong></p>
 <p align="center">Project : FOOD SAVIOURS </p><br>
-<p align="center"> <img height="100em" src="website/photos
-/Logo.png"></p>
+
 
 
 <p align="center">🏆 THE A TEAM 🏆</p>
@@ -48,8 +47,8 @@ up's the food and distributes it with help of the NGO's. We either put up a lang
 food or distribute it using the moving vans.
 
 
-<img src="FOOD SAVIOURS BUT CLEANER/photos/how_we_work.png">
+<p align = "center"><img src="website/photos/How We Work.png"><p>
 
 
 
-Video Link:
+Video Link:https://youtu.be/zt3UaVdd8jI
