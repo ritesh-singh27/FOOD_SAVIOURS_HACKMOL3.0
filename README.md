@@ -1,6 +1,7 @@
 <p align="center"><strong> 🔥 HACKMOL 3.0 🔥 </strong></p>
 <p align="center">Project : FOOD SAVIOURS </p><br>
-<p align="center"> <img height="100em" src="FOOD SAVIOURS BUT CLEANER/photos/Logo.png"></p>
+<p align="center"> <img height="100em" src="website/photos
+/Logo.png"></p>
 
 
 <p align="center">🏆 THE A TEAM 🏆</p>
